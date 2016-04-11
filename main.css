@@ -1,0 +1,90 @@
+.site{
+	margin-left: 30px;
+}
+
+.card {
+	width: 30%;
+	height: 625px;
+	border: 1px solid;
+	border-color: lightblue;
+	display: block;
+	float:left;
+	margin: 8px;
+}
+
+.title {
+	font-size: 20px;
+}
+
+.headingdiv {
+	text-align: center;
+	border: 1px dotted;
+}
+
+.imgdiv {
+	text-align: center;
+}
+
+.imgdiv img {
+	height: 200px;
+}
+
+.macminiimgdiv img {
+	width: 200px;
+	height: 100px;
+	padding: 50px;
+}
+
+.descriptiondiv {
+	text-align: justify;
+	font-size: 12px;
+}
+
+.descriptiondiv p{
+	margin: 0;
+}
+
+.specificationsection {
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.specificationsection p {
+	font-size: 9px;
+}
+
+.specificationsection div p {
+	margin: 0;
+}
+
+.specificationsection h3 {
+	margin: 0;
+}
+
+.pricingsection {
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.pricingsection p {
+	font-size: 9px;
+}
+
+.pricingsection div p {
+	margin: 0;
+}
+
+.pricingsection h3 {
+	margin: 0;
+}
+
+.availabilitydiv {
+	background-color: darkgrey;
+	height: 17px;
+	margin: 10px 0;
+}
+
+.availabilitydiv p {
+	color: yellow;
+	font-size: 14px;
+}
