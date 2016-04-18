@@ -16,75 +16,75 @@
 	font-size: 20px;
 }
 
-.headingdiv {
+header {
 	text-align: center;
 	border: 1px dotted;
 }
 
-.imgdiv {
+.img {
 	text-align: center;
 }
 
-.imgdiv img {
+.img img {
 	height: 200px;
 }
 
-.macminiimgdiv img {
+.macminiimg img {
 	width: 200px;
 	height: 100px;
 	padding: 50px;
 }
 
-.descriptiondiv {
+.description {
 	text-align: justify;
 	font-size: 12px;
 }
 
-.descriptiondiv p{
+.description p{
 	margin: 0;
 }
 
-.specificationsection {
+.specification {
 	font-weight: bold;
 	font-size: 12px;
 }
 
-.specificationsection p {
+.specification p {
 	font-size: 9px;
 }
 
-.specificationsection div p {
+.specification div p {
 	margin: 0;
 }
 
-.specificationsection h3 {
+h3 {
 	margin: 0;
 }
 
-.pricingsection {
+.pricing {
 	font-weight: bold;
 	font-size: 12px;
 }
 
-.pricingsection p {
+.pricing p {
 	font-size: 9px;
 }
 
-.pricingsection div p {
+.pricing div p {
 	margin: 0;
 }
 
-.pricingsection h3 {
+.pricing h3 {
 	margin: 0;
 }
 
-.availabilitydiv {
+.availability {
 	background-color: darkgrey;
 	height: 17px;
 	margin: 10px 0;
 }
 
-.availabilitydiv p {
+.availability p {
 	color: yellow;
 	font-size: 14px;
 }
