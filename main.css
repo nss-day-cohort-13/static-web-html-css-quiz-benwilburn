@@ -4,7 +4,7 @@
 
 .card {
 	width: 30%;
-	height: 625px;
+	height: 675px;
 	border: 1px solid;
 	border-color: lightblue;
 	display: block;
@@ -29,7 +29,7 @@ header {
 	height: 200px;
 }
 
-.macminiimg img {
+.macmini img{
 	width: 200px;
 	height: 100px;
 	padding: 50px;
@@ -70,11 +70,7 @@ h3 {
 	font-size: 9px;
 }
 
-.pricing div p {
-	margin: 0;
-}
-
-.pricing h3 {
+.pricing div p, {
 	margin: 0;
 }
 
