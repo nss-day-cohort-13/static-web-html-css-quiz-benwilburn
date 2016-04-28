@@ -1,15 +1,18 @@
 .site{
-	margin-left: 30px;
+	margin: 1% 1% 0 5%;
 }
 
 .card {
 	width: 30%;
-	height: 675px;
+	min-height: 675px;
 	border: 1px solid;
 	border-color: lightblue;
-	display: block;
-	float:left;
-	margin: 8px;
+	display: inline-block;
+	/* float:left; */
+	position: relative;
+	margin: 0 4px;
+	vertical-align: top;
+
 }
 
 .title {
@@ -23,25 +26,33 @@ header {
 
 .img {
 	text-align: center;
+	margin: 10px 0;
 }
 
-.img img {
-	height: 200px;
+.macPro img {
+	width: 40%;
+	text-align: center;
+}
+
+.desktopImg img {
+	width: 75%;
+	text-align: center;
 }
 
 .macmini img{
-	width: 200px;
-	height: 100px;
-	padding: 50px;
+	width: 60%;
+	height: 80px;
 }
-
 .description {
 	text-align: justify;
 	font-size: 12px;
+	/* min-height: 40%; */
 }
 
 .description p{
 	margin: 0;
+/* 	height: 100%;
+	width: 100%; */
 }
 
 .specification {
@@ -53,9 +64,9 @@ header {
 	font-size: 9px;
 }
 
-.specification div p {
+/* .specification div p {
 	margin: 0;
-}
+} */
 
 h3 {
 	margin: 0;
@@ -70,7 +81,7 @@ h3 {
 	font-size: 9px;
 }
 
-.pricing div p, {
+.pricing div p {
 	margin: 0;
 }
 
