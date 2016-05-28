@@ -1,0 +1,97 @@
+.site{
+	margin: 1% 1% 0 5%;
+}
+
+.card {
+	width: 30%;
+	min-height: 675px;
+	border: 1px solid;
+	border-color: lightblue;
+	display: inline-block;
+	/* float:left; */
+	position: relative;
+	margin: 0 4px;
+	vertical-align: top;
+
+}
+
+.title {
+	font-size: 20px;
+}
+
+header {
+	text-align: center;
+	border: 1px dotted;
+}
+
+.img {
+	text-align: center;
+	margin: 10px 0;
+}
+
+.macPro img {
+	width: 40%;
+	text-align: center;
+}
+
+.desktopImg img {
+	width: 75%;
+	text-align: center;
+}
+
+.macmini img{
+	width: 60%;
+	height: 80px;
+}
+.description {
+	text-align: justify;
+	font-size: 12px;
+	/* min-height: 40%; */
+}
+
+.description p{
+	margin: 0;
+/* 	height: 100%;
+	width: 100%; */
+}
+
+.specification {
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.specification p {
+	font-size: 9px;
+}
+
+/* .specification div p {
+	margin: 0;
+} */
+
+h3 {
+	margin: 0;
+}
+
+.pricing {
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.pricing p {
+	font-size: 9px;
+}
+
+.pricing div p {
+	margin: 0;
+}
+
+.availability {
+	background-color: darkgrey;
+	height: 17px;
+	margin: 10px 0;
+}
+
+.availability p {
+	color: yellow;
+	font-size: 14px;
+}
